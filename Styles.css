@@ -1,6 +1,14 @@
+.Titles{
+padding: 60px;
+}
+
+.VS{
+  text-align: center;
+}
+
 .Simg {
-  height: 200px;
-  width: 200px;
+  height: 250px;
+  width: 250px;
   padding-bottom: 0;
   padding-top: 0;
 }
@@ -32,6 +40,7 @@ p {
 
 .lastText {
   text-align: center;
+  color: #30e3ca;
 }
 
 hr {
@@ -45,15 +54,15 @@ hr {
 }
 
 .imgr {
-  height: 433px;
-  width: 433px;
-  padding: 25px;
+  height: 350px;
+  width: 350px;
+  padding: 70px;
 }
 
 img {
-  height: 433px;
-  width: 433px;
-  padding: 25px;
+  height: 350px;
+  width: 350px;
+  padding: 70px;
 }
 
 .Second {
