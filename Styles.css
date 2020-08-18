@@ -1,5 +1,6 @@
 .Titles{
 padding: 60px;
+text-decoration: underline;
 }
 
 .VS{
@@ -40,7 +41,8 @@ p {
 
 .lastText {
   text-align: center;
-  color: #30e3ca;
+  color: #89c9b8;
+  font-size: 55px;
 }
 
 hr {
@@ -50,19 +52,19 @@ hr {
 .MiddleText {
   text-align: center;
   font-family: 'Merriweather', serif;
-  background-color: #bbded6;
+  background-color: #e3fdfd;
 }
 
 .imgr {
   height: 350px;
   width: 350px;
-  padding: 70px;
+  padding: 10px;
 }
 
 img {
   height: 350px;
   width: 350px;
-  padding: 70px;
+  padding: 10px;
 }
 
 .Second {
@@ -81,7 +83,7 @@ img {
   text-align: center;
   padding-top: 0%;
   padding-bottom: 0%;
-  font-size: 55px;
+  font-size: 70px;
 }
 
 .Spara {
@@ -94,6 +96,6 @@ img {
 
 h1 {
   text-align: center;
-  color: #95e1d3;
+  color: #89c9b8;
   font-family: 'Calligraffitti', sans-serif;
 }
